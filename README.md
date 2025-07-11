@@ -1,4 +1,4 @@
-# goquant
+# GoQuant
 
 
 # Spot Exposure Hedging Bot
